@@ -1,0 +1,8 @@
+This file was created for my HTML 5 class
+We are looking at webvtt/ adding subtitles to videos. 
+Traditionally we use a clip from Godzilla. Disclaimer: I do not own the clip, movie, music, none of it! 
+
+I had a hard time with my coding editor creating an external .vtt file. It just kepy making it like a weird file or wouldn't
+allow me to name it .vtt at all. After a lot of looking around and looking at differnt solutions.
+I found the solution to embed it with the html file and have an external .jss and .css file to do the rest. It came out great and I'm very happy with the 
+results! 
